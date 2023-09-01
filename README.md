@@ -1,4 +1,4 @@
-<!-- Hey there, fellow code maestro! 👋 -->
+!-- Hey there, fellow code maestro! 👋 --!
 
 # 🌟 Welcome to Nicole's Realm of Code & Data Wonders! 🚀
 
@@ -35,8 +35,7 @@
 
 💌 Feel free to reach out for a code duel, a data discussion, or just a friendly chat.
 
-<!-- May your code be bug-free and your data always insightful! 🦄🔮 -->
-
-<!-- Thanks for stopping by! Have a magical day! 🌈 -->
+!-- May your code be bug-free and your data always insightful! 🦄🔮 --
+!-- Thanks for stopping by! Have a magical day! 🌈 --
 
 
