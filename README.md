@@ -35,11 +35,6 @@
 
 ## 📊 Categorizing My Data Analytics Adventures at Ironhack
 
-### 🔍 ACTIVITY
-
-- Unit 2 SQL
-- Unit 3 SQL
-
 ### 📚 HOMEWORK
 
 #### 🚀 Unit 1 Intro | Python | Machine Learning (ML) | SQL
