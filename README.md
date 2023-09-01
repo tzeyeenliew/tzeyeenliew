@@ -1,31 +1,38 @@
-### Hi there 👋
+<!-- Hey there, fellow code maestro! 👋 -->
 
-<!-- Hey there, welcome to my coding playground! 👋 -->
+# 🌟 Welcome to Nicole's Realm of Code & Data Wonders! 🚀
 
-# <Hello World!/> I'm Nicole Liew-Jagtman 🚀
-
-### Data Enthusiast | Code Explorer | Pokémon Trainer 🌟
+### Data Dynamo | Code Artisan | Explorer of Digital Frontiers 🌌
 
 👩‍💻 About Me:
-- 📊 Data Analysis is my superpower - I turn numbers into stories!
-- 📚 Lifelong learner with a passion for all things data science.
-- 🎮 Pokémon Master by night, coding wizard by day.
+- 📊 Crafting data into insights and turning code into poetry with a dash of flair.
+- 🌈 Dreaming of algorithms by day, and by night, weaving code tapestries.
+- 🎮 Gamer, tech aficionado, and the undefeatable boss of bytes!
 
-🌟 What You'll Find Here:
-- 🤖 Awesome data science projects that will make your data dance.
-- 🎨 Creative coding adventures that will blow your mind.
-- 🌐 Plenty of repositories to explore, each with its own enchanting story.
+🚀 Current Ventures:
+- 📈 Unraveling data's secrets with Python's magic wand and a sprinkle of logic.
+- 🎨 Painting vivid visualizations that narrate stories only data can tell.
+- ⚔️ Conquering the machine learning realm one algorithm at a time.
 
-🚀 Recent Quests:
-- 📈 Created a Legendary Pokémon Classifier using machine learning magic.
-- 🏡 Predicted house prices for Curry Wurst team's epic journey.
-- ⚽ Unleashed the power of data to predict FIFA 2021 player performance.
+🌟 Superpowers in Action:
+- 🪄 Charms: Python, SQL, Tableau - watch as I conjure insights from raw data.
+- 🌌 Elixirs: Pandas, Matplotlib, Seaborn - crafting enchantment from numbers.
+- 🎮 Talismans: Jupyter notebooks, VS Code - where dreams are coded into reality.
 
-🌐 Connect with Me:
-- 👋 Let's be pals on [LinkedIn](https://www.linkedin.com/in/tzeyeenliew/).
-- 🧙‍♀️ Delve into the magic of my coding journey on [GitHub](https://github.com/tzeyeenliew).
-- 🌍 Follow my global escapades on [Instagram](https://www.instagram.com/data_wanderlust/).
+📚 Epic Chronicles:
+- 📈 (Legendary Pokemon Classifier)[https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier] | Mastery in predicting Legendary Pokémon using advanced machine learning techniques.
+- 🏡 (House Price Prediction)[https://github.com/tzeyeenliew/data_mid_bootcamp_project_regression]| Proficiency in divining housing prices through intricate predictive modeling.
+- ⚽ (FIFA 2021 Player Performance Prediction)[https://github.com/tzeyeenliew/data_mid_bootcamp_project_FIFA_MoneyBall]| Skill in harnessing data to anticipate the performance dynamics of FIFA 2021 players.
+  
+🔮 Let's Connect:
+- 📚 Dive into my treasure trove on [GitHub](https://github.com/tzeyeenliew).
+- 🌌 Join me on daring data quests at [LinkedIn](https://www.linkedin.com/in/tzeyeenliew/).
+- 🌍 Follow my global escapades on [Instagram](https://www.instagram.com/nicoleliewjagtman/).
 
-💌 Feel free to reach out for a code duel, a data discussion, or just a friendly chat. And remember, coding is just like catching Pokémon - gotta catch 'em all! 🌟
+💌 Feel free to reach out for a code duel, a data discussion, or just a friendly chat.
+
+<!-- May your code be bug-free and your data always insightful! 🦄🔮 -->
 
 <!-- Thanks for stopping by! Have a magical day! 🌈 -->
+
+
