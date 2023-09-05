@@ -39,7 +39,7 @@
 
 #### 🚀 Unit 1 Intro | Python | Machine Learning (ML) | SQL
 
-- [Lab | Customer Analysis](https://github.com/tzeyeenliew/lab-customer-analysis-final-round)
+- [Lab Series| Customer Analysis](https://github.com/tzeyeenliew/lab-customer-analysis-final-round)
 
 #### 📊 Unit 2 SQL
 
