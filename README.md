@@ -6,7 +6,7 @@
 
 - 📊 Crafting data into insights and turning code into poetry with a dash of flair.
 - 🌈 Dreaming of algorithms by day, and by night, weaving code tapestries.
-- 🎮 Gamer, tech aficionado, and the undefeatable boss of bytes! 9/2023: Just completed Hogwarts Legacy, now off to finish Baldur's Gate 3 
+- 🎮 Gamer, tech aficionado, and the undefeatable boss of bytes! <i>9/2023: Just completed Hogwarts Legacy, now off to finish Baldur's Gate 3</i> 
 - 🎓 Recently graduated from Ironhack's Data Analytics program, ready to conquer new coding realms.
 - 💼 Previously soared through diverse industries, from FinTech to academic research, now harnessing data for powerful impact.
 
