@@ -57,7 +57,7 @@
 #### ⚽ Mini Project 
 - [FIFA - MoneyBall](https://github.com/tzeyeenliew/data_mid_bootcamp_project_FIFA_MoneyBall)
 
-#### 🤖 Unit 3 SQL | ML
+#### 🤖 Unit 3 SQL | Machine Learning
 
 - [Lab | SQL - JOIN](https://github.com/tzeyeenliew/lab-sql-join)
 - [Lab | SQL Joins on multiple tables](https://github.com/tzeyeenliew/lab-sql-join-multiple-tables)
@@ -66,7 +66,7 @@
 - [Lab | SQL Advanced queries](https://github.com/tzeyeenliew/lab-sql-advanced-queries)
 - [Lab | Imbalanced data](https://github.com/tzeyeenliew/lab-imbalanced-data)
 
-#### 🛠️ Unit 4 ML
+#### 🛠️ Unit 4 Machine Learning
 
 - [Lab | Cleaning numerical data](https://github.com/tzeyeenliew/lab-cleaning-numerical-data)
 - [Lab | Cleaning categorical data](https://github.com/tzeyeenliew/lab-cleaning-categorical-data)
