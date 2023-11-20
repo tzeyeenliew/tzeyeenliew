@@ -22,7 +22,7 @@
 - 🎮 Talismans: Jupyter notebooks, VS Code - where dreams are coded into reality. Minor runes: Webscrapping and implementing APIs.
 
 ### 📚 <b>Epic Chronicles (MY PROJECTS)</b>:
-- 📈 [Legendary Pokemon Classifier](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) | Mastery in predicting Legendary Pokémon using advanced machine learning techniques.
+- 📈 [Legendary Pokemon Classifier (FINAL PROJECT)](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) | Mastery in predicting Legendary Pokémon using advanced machine learning techniques.
 - 🏡 [House Price Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_regression) | Proficiency in divining housing prices through intricate predictive modeling.
 - ⚽ [FIFA 2021 Player Performance Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_FIFA_MoneyBall) | Skill in harnessing data to anticipate the performance dynamics of FIFA 2021 players.
   
