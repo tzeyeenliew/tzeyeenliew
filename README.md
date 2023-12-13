@@ -31,7 +31,7 @@
 - 🌌 Join me on daring data quests at [LinkedIn](https://www.linkedin.com/in/tzeyeenliew/).
 - 🌍 Follow my global escapades on [Instagram](https://www.instagram.com/nicoleliewjagtman/).
 
-💌 Feel free to reach out for a code duel, a data discussion, or just a friendly chat!
+💌 Feel free to reach out for a a data discussion or just a friendly chat!
 
 ## 📊 Categorizing My Data Analytics Adventures at Ironhack
 
@@ -104,8 +104,8 @@
 - [Lab | Web Scraping Single Page](https://github.com/tzeyeenliew/lab-web-scraping-single-page)
 - [Lab | Web Scraping Multiple Pages](https://github.com/tzeyeenliew/lab-web-scraping-multiple-pages)
 - [Lab | Working with APIs](https://github.com/tzeyeenliew/lab-working-with-api)
-- [Lab | API wrappers - Create your collection of songs & audio features](https://github.com/tzeyeenliew/lab-api-wrappers)
-- [Lab | Unsupervised learning intro](https://github.com/tzeyeenliew/lab-unsupervised-learning-intro)
+- [Lab | API wrappers - Create your collection of songs & audio features](https://github.com/tzeyeenliew/lab-api-wrappers) (UPDATING FILES, MOMENTARILY NOT ONLINE)
+- [Lab | Unsupervised learning intro](https://github.com/tzeyeenliew/lab-unsupervised-learning-intro) (UPDATING FILES, MOMENTARILY NOT ONLINE)
 
 #### 🚀 Unit 9 Final Project
 - [Unsupervised Learning, Hypothesis Testing, Binary Classification and Streamlit App|Legendary Pokemon Classifier](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) 
