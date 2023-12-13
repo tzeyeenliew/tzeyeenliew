@@ -11,17 +11,7 @@
 - 💼 Previously soared through diverse industries, from FinTech to academic research, now harnessing data for powerful impact.
 
 
-🚀 Current Ventures:
-- 📈 Unraveling data's secrets with Python's magic wand and a sprinkle of logic.
-- 🎨 Painting vivid visualizations that narrate stories only data can tell.
-- ⚔️ Conquering the machine learning realm one algorithm at a time.
-
-🌟 Superpowers in Action:
-- 🪄 Charms: Python, SQL, Tableau - watch as I conjure insights from raw data.
-- 🌌 Elixirs: Pandas, Matplotlib, Seaborn - crafting enchantment from numbers.
-- 🎮 Talismans: Jupyter notebooks, VS Code - where dreams are coded into reality. Minor runes: Webscrapping and implementing APIs.
-
-### 📚 <b>Epic Chronicles (MY PROJECTS)</b>:
+### 📚 <b>MY PROJECTS</b>:
 - 📈 [Legendary Pokemon Classifier (FINAL PROJECT)](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) | Mastery in predicting Legendary Pokémon using advanced machine learning techniques.
 - 🏡 [House Price Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_regression) | Proficiency in divining housing prices through intricate predictive modeling.
 - ⚽ [FIFA 2021 Player Performance Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_FIFA_MoneyBall) | Skill in harnessing data to anticipate the performance dynamics of FIFA 2021 players.
