@@ -95,7 +95,7 @@
 - [Lab | Web Scraping Multiple Pages](https://github.com/tzeyeenliew/lab-web-scraping-multiple-pages)
 - [Lab | Working with APIs](https://github.com/tzeyeenliew/lab-working-with-api)
 - [Lab | API wrappers - Create your collection of songs & audio features](https://github.com/tzeyeenliew/lab-api-wrappers) (UPDATING FILES, MOMENTARILY OFFLINE)
-- [Lab | Unsupervised learning intro](https://github.com/tzeyeenliew/lab-unsupervised-learning-intro) (UPDATING FILES, MOMENTARILY NOT OFFLINE)
+- [Lab | Unsupervised learning intro](https://github.com/tzeyeenliew/lab-unsupervised-learning-intro) (UPDATING FILES, MOMENTARILY OFFLINE)
 
 #### 🚀 Unit 9 Final Project
 - [Unsupervised Learning, Hypothesis Testing, Binary Classification and Streamlit App|Legendary Pokemon Classifier](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) 
