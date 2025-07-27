@@ -4,20 +4,29 @@
 
 
 ### 📚 <b>MY PROJECTS</b>:
-As a Trainee Data Engineer
+## As a Trainee Data Engineer
+
+Sprint 1 – Foundations of Data Engineering
+
+Sprint 2 – SQL & Data Modelling
+
+Sprint 3 – Implementing Automation and CI/CD
+
+Sprint 4 – Integrating and Transforming Data at Scale
+
+Sprint 5 – Relational DBs vs NoSQL and APIs
+
+Sprint 6 – Mastering Data Visualization with Power BI
+
+Sprint 7 – Microsoft Fabric end-to-end Solution
+
+Final Client Project
+Final Internal Project
 
 
 
 
-
-
-
-
-
-
-
-
-As a bootcamp student
+## As a bootcamp student:
 - 📈 [Legendary Pokemon Classifier (FINAL PROJECT)](https://github.com/tzeyeenliew/Ironhack-Final-Project-Legendary-Pokemon-Classifier) | Mastery in predicting Legendary Pokémon using advanced machine learning techniques.
 - 🏡 [House Price Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_regression) | Proficiency in divining housing prices through intricate predictive modeling.
 - ⚽ [FIFA 2021 Player Performance Prediction](https://github.com/tzeyeenliew/data_mid_bootcamp_project_FIFA_MoneyBall) | Skill in harnessing data to anticipate the performance dynamics of FIFA 2021 players.
