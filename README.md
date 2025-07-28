@@ -5,20 +5,28 @@
 
 ### 📚 <b>MY PROJECTS</b>:
 ## As a Trainee Data Engineer
+Focusing on end-to-end pipeline building, infrastructure automation, and client-ready reporting.
 
-Sprint 1 – Foundations of Data Engineering
+Sprint 1 – Foundations of Data Engineering (Pokémon Pipeline)
+Built an end-to-end pipeline (ADF → Databricks → SQL) for the Pokémon dataset. Compared performance between SQL and Databricks clusters.
 
-Sprint 2 – SQL & Data Modelling
+Sprint 2 – SQL & Data Modelling (Super Secret Company)
+Designed OLTP & OLAP models using Azure SQL. Implemented stored procedures, DateKey optimization, and role-based access.
 
-Sprint 3 – Implementing Automation and CI/CD
+Sprint 3 – Implementing Automation and CI/CD (Bicep + DevOps)
+Deployed Azure infrastructure using modular Bicep scripts and YAML pipelines. Managed dependencies for Databricks VNet Injection Mode.
 
-Sprint 4 – Integrating and Transforming Data at Scale
+Sprint 4 – Integrating and Transforming Data at Scale (WeatherMetrics Inc.)
+Created a dynamic ADF pipeline triggered by reqInfo.json. Cleaned and transformed weather data using Spark, applied caching and persistence.
 
-Sprint 5 – Relational DBs vs NoSQL and APIs
+Sprint 5 – Client Assignment: NS Train Notifier
+Built an Azure Logic App to send Teams alerts with real-time NS API train data. Used ADF and conditional logic for flexible automation.
 
-Sprint 6 – Mastering Data Visualization with Power BI
+Sprint 6 – Client Assignment: Bendix Power BI Dashboard (pending upload)
+Built a sales dashboard with Power BI. Modeled Clean Data + dimensions, calculated KPI uplift from bundling, and delivered market insights.
 
-Sprint 7 – Microsoft Fabric end-to-end Solution
+Sprint 7 – Microsoft Fabric (Emoji Analytics Platform)
+Built a full medallion architecture (Bronze → Gold) in Microsoft Fabric. Created semantic models and dashboards using Power BI Direct Lake.
 
 Final Client Project
 Final Internal Project
