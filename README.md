@@ -28,7 +28,11 @@ Built a sales dashboard with Power BI. Modeled Clean Data + dimensions, calculat
 Sprint 7 – Microsoft Fabric (Emoji Analytics Platform)
 Built a full medallion architecture (Bronze → Gold) in Microsoft Fabric. Created semantic models and dashboards using Power BI Direct Lake.
 
+
+
 Final Client Project
+
+
 Final Internal Project
 
 
