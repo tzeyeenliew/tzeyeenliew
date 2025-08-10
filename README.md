@@ -38,10 +38,16 @@ Built a full medallion architecture (Bronze → Gold) in Microsoft Fabric. Creat
 
 
 
-Final External Client Project
+Final External Client Project - [REDACTED] Power BI Support
 
 
-Final Internal Client Project
+Final Internal Client Project - Microsoft Fabric Deployment Tool
+
+
+
+
+
+
 
 
 
