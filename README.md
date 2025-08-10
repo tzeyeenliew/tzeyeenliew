@@ -1,39 +1,47 @@
-# 🌟 Welcome to my GitHub Repo 🚀
+# 🌟 Welcome to my GitHub Repo 🚀  
 
-### Data Engineer Trainee
+## Data Engineer Trainee  
+
+### 📚 **MY PROJECTS**  
+**As a Trainee Data Engineer**  
+Focusing on end-to-end pipeline building, infrastructure automation, and client-ready reporting.  
+
+---
+
+**Sprint 1 – Foundations of Data Engineering (Pokémon Pipeline)**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGfBGpM1Yg/lv4gQWLe1yjOzJUG4SZRrQ/edit?utm_content=DAGfBGpM1Yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Built an end-to-end pipeline (ADF → Databricks → SQL) for the Pokémon dataset. Compared performance between SQL and Databricks clusters.  
+
+**Sprint 2 – SQL & Data Modelling (Super Secret Company)**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGgBij_Oi8/yBXW0LtJAR2gq0eduWzn-Q/edit?utm_content=DAGgBij_Oi8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Designed OLTP & OLAP models using Azure SQL. Implemented stored procedures, DateKey optimization, and role-based access.  
+
+**Sprint 3 – Implementing Automation and CI/CD (Bicep + DevOps)**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGho0PZU6c/Acr-JTIBzqVH7L2CPEG8-Q/edit?utm_content=DAGho0PZU6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Deployed Azure infrastructure using modular Bicep scripts and YAML pipelines. Managed dependencies for Databricks VNet Injection Mode.  
+
+**Sprint 4 – Integrating and Transforming Data at Scale (WeatherMetrics Inc.)**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGi5N-cfjY/-oLayufg1ZfHgdO8jmEBeA/edit?utm_content=DAGi5N-cfjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Created a dynamic ADF pipeline triggered by reqInfo.json. Cleaned and transformed weather data using Spark, applied caching and persistence.  
+
+**Sprint 5 – NS Train Notifier**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGvoH0UCcs/r8bAMzUt55JjTyOT2Y5Gng/edit?utm_content=DAGvoH0UCcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Built an Azure Logic App to send Teams alerts with real-time NS API train data. Used ADF and conditional logic for flexible automation.  
+
+**Sprint 6 – [REDACTED] Insights Power BI Dashboard (Sanitized)**  
+Designed and delivered a sales analytics dashboard using Power BI. Modeled Clean Data + dimensions, created KPI measures to evaluate bundling uplift, and provided actionable market insights based on sales patterns. Name of client redacted to protect client's privacy.
+
+**Sprint 7 – Microsoft Fabric (Emoji Analytics Platform)**  
+[View Sprint/Project Presentation](https://www.canva.com/design/DAGm4UK0U5w/zQF_ymeWYJ7xnj6bfoHXrw/edit?utm_content=DAGm4UK0U5w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+Built a full medallion architecture (Bronze → Gold) in Microsoft Fabric. Created semantic models and dashboards using Power BI Direct Lake.  
 
 
-### 📚 <b>MY PROJECTS</b>:
-## As a Trainee Data Engineer
-Focusing on end-to-end pipeline building, infrastructure automation, and client-ready reporting.
-
-Sprint 1 – Foundations of Data Engineering (Pokémon Pipeline)
-Built an end-to-end pipeline (ADF → Databricks → SQL) for the Pokémon dataset. Compared performance between SQL and Databricks clusters.
-
-Sprint 2 – SQL & Data Modelling (Super Secret Company)
-Designed OLTP & OLAP models using Azure SQL. Implemented stored procedures, DateKey optimization, and role-based access.
-
-Sprint 3 – Implementing Automation and CI/CD (Bicep + DevOps)
-Deployed Azure infrastructure using modular Bicep scripts and YAML pipelines. Managed dependencies for Databricks VNet Injection Mode.
-
-Sprint 4 – Integrating and Transforming Data at Scale (WeatherMetrics Inc.)
-Created a dynamic ADF pipeline triggered by reqInfo.json. Cleaned and transformed weather data using Spark, applied caching and persistence.
-
-Sprint 5 – Client Assignment: NS Train Notifier
-Built an Azure Logic App to send Teams alerts with real-time NS API train data. Used ADF and conditional logic for flexible automation.
-
-Sprint 6 – Client Assignment: Bendix Power BI Dashboard (pending upload)
-Built a sales dashboard with Power BI. Modeled Clean Data + dimensions, calculated KPI uplift from bundling, and delivered market insights.
-
-Sprint 7 – Microsoft Fabric (Emoji Analytics Platform)
-Built a full medallion architecture (Bronze → Gold) in Microsoft Fabric. Created semantic models and dashboards using Power BI Direct Lake.
 
 
+Final External Client Project
 
-Final Client Project
 
-
-Final Internal Project
+Final Internal Client Project
 
 
 
