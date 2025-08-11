@@ -8,11 +8,11 @@ Focusing on end-to-end pipeline building, infrastructure automation, and client-
 
 ---
 
-**Sprint 1 – Foundations of Data Engineering (Pokémon Pipeline)**  
+**Sprint 1 – Foundations of Data Engineering **  
 [View Sprint/Project Presentation](https://www.canva.com/design/DAGfBGpM1Yg/lv4gQWLe1yjOzJUG4SZRrQ/edit?utm_content=DAGfBGpM1Yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 Built an end-to-end pipeline (ADF → Databricks → SQL) for the Pokémon dataset. Compared performance between SQL and Databricks clusters.  
 
-**Sprint 2 – SQL & Data Modelling (Super Secret Company)**  
+**Sprint 2 – SQL & Data Modelling **  
 [View Sprint/Project Presentation](https://www.canva.com/design/DAGgBij_Oi8/yBXW0LtJAR2gq0eduWzn-Q/edit?utm_content=DAGgBij_Oi8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 Designed OLTP & OLAP models using Azure SQL. Implemented stored procedures, DateKey optimization, and role-based access.  
 
