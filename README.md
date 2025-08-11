@@ -28,7 +28,7 @@ Created a dynamic ADF pipeline triggered by reqInfo.json. Cleaned and transforme
 [View Sprint/Project Presentation](https://www.canva.com/design/DAGvoH0UCcs/r8bAMzUt55JjTyOT2Y5Gng/edit?utm_content=DAGvoH0UCcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 Built an Azure Logic App to send Teams alerts with real-time NS API train data. Used ADF and conditional logic for flexible automation.  
 
-**Sprint 6 – [REDACTED] Insights Power BI Dashboard (Sanitized)**  
+**Sprint 6 – [REDACTED] Insights Power BI Dashboard**  
 Designed and delivered a sales analytics dashboard using Power BI. Modeled Clean Data + dimensions, created KPI measures to evaluate bundling uplift, and provided actionable market insights based on sales patterns. Name of client redacted to protect client's privacy.
 
 **Sprint 7 – Microsoft Fabric (Emoji Analytics Platform)**  
